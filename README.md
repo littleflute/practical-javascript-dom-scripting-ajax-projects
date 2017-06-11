@@ -1,10 +1,12 @@
 [v0.0.3](https://github.com/littleflute/practical-javascript-dom-scripting-ajax-projects/edit/master/README.md)
 
 
-[Zammetti]
+[Zammetti](Zammetti)
 
 
-# Apress Source Code
+
+# Apre)
+s Source Code
 
 This repository accompanies [*Practical JavaScript, DOM Scripting and Ajax Projects*](http://www.apress.com/9781590598160) by Frank Zammetti (Apress, 2007).
 
