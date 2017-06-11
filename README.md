@@ -1,6 +1,7 @@
-[v0.0.2](https://github.com/littleflute/practical-javascript-dom-scripting-ajax-projects/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/practical-javascript-dom-scripting-ajax-projects/edit/master/README.md)
 
 
+[Zammetti]
 
 
 # Apress Source Code
